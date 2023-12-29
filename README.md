@@ -1,4 +1,4 @@
-# Curve-Fitting-Code
+# curve-fitting-class
 Classe em Python que facilita o processo de _fitting_ ao se trabalhar com dados experimentais baseada nas bibliotecas _lmfit_, _numpy_ e _matplotlib_.
 
 Arquivos:
